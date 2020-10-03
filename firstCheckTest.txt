@@ -1,2 +1,3 @@
 Checking the working of GIT. Added a GIT COMMAND
-I am practicing the GIT commands 2323232323
+I am practicing the GIT commands 
+TESTING 2
