@@ -1,0 +1,2 @@
+Checking the working of GIT. Added a GIT COMMAND
+I am practicing the GIT commands

@@ -1,0 +1,1 @@
+Checking the working of GIT. Added a GIT COMMAND
